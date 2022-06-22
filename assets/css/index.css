@@ -1,0 +1,33 @@
+.logo {
+  width: 50px;
+  height: 50px;
+  margin-right: 16px;
+}
+
+.bg-video {
+  position: absolute;
+}
+
+.button-area button {
+  margin-left: 20px;
+}
+
+.item-logo {
+  width: 50px;
+}
+
+.carouse-container {
+  display: flex;
+  justify-content: center;
+}
+
+#carouselExampleIndicators {
+  opacity: 0.9;
+  width: 800px;
+  height: 300px;
+}
+
+#carouselExampleIndicators img {
+  width: 800px;
+  height: 300px;
+}
